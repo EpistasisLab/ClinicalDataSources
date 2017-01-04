@@ -1,5 +1,5 @@
 # Clinical Data Sources
-We are assembling a repository of clinical data sources that are either public or have low friction application processes. If you have any comments, corrections, or know of any additional sources, please add it as a pull request.
+We are assembling a repository of clinical data sources (Electronic Health Record, Clinical trials, Imaging etc.) that are either public or have low friction application processes. If you have any comments, corrections, or know of any additional sources, please add it as a pull request.
 
 Types of data: 
 
