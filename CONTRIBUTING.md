@@ -10,7 +10,7 @@ We use GitHub Issues for a wide range of tasks including bug reports, feature re
 
 ## Pull Requests
 
-We operate on a pull request model, all changes/additions shoudl be submitted via [pull request](https://help.github.com/articles/using-pull-requests/ "GitHub · Using pull requests"). 
+We operate on a pull request model, all changes/additions should be submitted via [pull request](https://help.github.com/articles/using-pull-requests/ "GitHub · Using pull requests"). 
 
 To keep the commit history clean, we may ask you to [rebase your pull request](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request "How to Rebase a Pull Request") or squash certain commits. If you don't know what this means, we'll help you through the process.
 
