@@ -19,3 +19,22 @@ Types of data:
 | [Cancer Imaging Archive](http://www.cancerimagingarchive.net/) | TCIA is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “Collections”, typically patients related by a common disease (e.g. lung cancer), image modality (MRI, CT, etc) or research focus. DICOM is the primary file format used by TCIA for image storage. Supporting data related to the images such as patient outcomes, treatment details, genomics, pathology, and expert analyses are also provided when available. | I, some studies have others | Most studies < 100 | Many Public | [Usage](https://wiki.cancerimagingarchive.net/display/Public/Data+Usage+Policies+and+Restrictions) [Publication](https://www.ncbi.nlm.nih.gov/pubmed/23884657)
 | [National Biomedical Imaging Archive](https://imaging.nci.nih.gov/ncia/login.jsf) | Welcome to the National Biomedical Imaging Archive (NBIA). NBIA is a searchable repository of in vivo images that provides the biomedical research community, industry, and academia with access to image archives to be used in the development and validation of analytical software tools that support: Lesion detection and classification, Accelerated diagnostic imaging decision, Quantitative imaging assessment of drug response | I | Most studies < 100 | Many Public | NA
 | [Open Access Series of Imaging Studies (OASIS)](http://www.oasis-brains.org/) | The Open Access Series of Imaging Studies (OASIS) is a project aimed at making MRI data sets of the brain freely available to the scientific community. By compiling and freely distributing MRI data sets, we hope to facilitate future discoveries in basic and clinical neuroscience. OASIS is made available by the Washington University Alzheimer’s Disease Research Center, Dr. Randy Buckner at the Howard Hughes Medical Institute (HHMI) at Harvard University, the Neuroinformatics Research Group (NRG) at Washington University School of Medicine, and the Biomedical Informatics Research Network (BIRN). | I | 416 (study 1), 150 (study 2) | Public | [Study 1](https://www.ncbi.nlm.nih.gov/pubmed/17714011) [Study 2](https://www.ncbi.nlm.nih.gov/pubmed/19929323) 
+
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/EpistasisLab/ClinicalDataSources">
+    <span property="dct:title">Brett Beaulieu-Jones</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Open or Easy Access Clinical Data Sources for Biomedical Research</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="US" about="https://github.com/EpistasisLab/ClinicalDataSources">
+  United States</span>.
+</p>
